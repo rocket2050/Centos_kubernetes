@@ -18,21 +18,21 @@ Minion Node was setup using [Variables](https://github.com/opstree-ansible/Cento
 Final Configuration of Flannel & Docker was done using [Defaults/Varianles](https://github.com/opstree-ansible/Centos_kubernetes/blob/master/post_config/defaults/main.yml)
 
 
-Dependencies
+# Dependencies
 
 None.
 
-Example Playbook
+# Example Playbook
 
 Including an example of how to use your role (for instance, with variables passed in as parameters) is always nice for users too:
 
 - hosts: "{{ host }}"
   roles:
      - { role: Centos_Kubernetes }
-License
+# License
 
-BSD
+ BSD
 
-Author Information
+# Author Information
 
 None
